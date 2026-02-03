@@ -1,0 +1,15 @@
+<resources>
+    <!-- Общие -->
+    <string name="app_name">Simple Weather</string>
+
+    <!-- Экран погоды -->
+    <string name="feels_like">Feels like: %1$.1f °C</string>
+    <string name="wind">Wind: %1$.1f kmph</string>
+    <string name="humidity">Humidity: %1$d%%</string>
+    <string name="max_min">Max: %1$.1f °C • Min: %2$.1f °C</string>
+
+    <!-- Сообщения -->
+    <string name="offline_message">Offline, showing saved data from: %1$s</string>
+    <string name="error_prefix">Error: %1$s</string>
+    <string name="no_network_message">Internet disconnected</string>
+</resources>

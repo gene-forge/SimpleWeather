@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Общие -->
+    <string name="app_name">Simple Weather</string>
+
+    <!-- Экран погоды -->
+    <string name="feels_like">Ощущается как: %1$.1f °C</string>
+    <string name="wind">Ветер: %1$.1f км/ч</string>
+    <string name="humidity">Влажность: %1$d%%</string>
+    <string name="max_min">Макс: %1$.1f °C • Мин: %2$.1f °C</string>
+
+    <!-- Сообщения -->
+    <string name="offline_message">Сети нет — показаны сохранённые данные от %1$s</string>
+    <string name="error_prefix">Ошибка: %1$s</string>
+    <string name="no_network_message">Интернет не подключен</string>
+</resources>
